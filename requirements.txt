@@ -1,0 +1,9 @@
+# OCR model
+easyocr
+
+# detection model
+ultralytics
+
+torch
+numpy
+cv2
