@@ -1,4 +1,9 @@
 
+<img width="748" height="860" alt="image" src="https://github.com/user-attachments/assets/79d2b5c1-3b6f-44e9-ae1e-621d39fae03b" />
+
+
+https://github.com/user-attachments/assets/1300e33a-166f-4aeb-a099-485b90338593
+
 
 
 
@@ -6,7 +11,7 @@
 
 ## Giới thiệu
 
-Dự án **Giám sát Giao thông** là một hệ thống phát hiện phương tiện giao thông và nhận diện biển số xe sử dụng công nghệ học sâu. Hệ thống có khả năng xử lý video và hình ảnh để tự động xác định các loại phương tiện (ô tô, xe tải, xe buýt, xe máy) và trích xuất thông tin biển số.
+Dự án **Giám sát Giao thông** là một hệ thống phát hiện phương tiện giao thông và nhận diện biển số xe sử dụng công nghệ AI. Hệ thống có khả năng xử lý video và hình ảnh để tự động xác định các loại phương tiện (ô tô, xe tải, xe buýt, xe máy) và trích xuất thông tin biển số.
 
 ## Tính năng chính
 
